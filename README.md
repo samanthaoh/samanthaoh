@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samanthaoh and I'm 18 years old
+- 👋 Hi, I’m @samanthaoh and I'm 19 years old
 - 👀 I’m interested in mobile and web application development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any beginner-level projects
