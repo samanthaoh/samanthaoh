@@ -6,7 +6,7 @@ I'm studying **Informatics: Data Science at the University of Washington**, with
 - Python, Java, JavaScript, React, SQL, and Swift
 - I've visited at least 16 countries!
 
-[LinkedIn](https://linkedin.com/in/samantha-oh/) · [Email](mailto:sgoh6@uw.edu)
+[LinkedIn](https://linkedin.com/in/samantha-oh/) · [Email](mailto:sgoh6@uw.edu) · [Website][htps://www.samantha-oh.com/]
 
 <!---
 samanthaoh/samanthaoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
